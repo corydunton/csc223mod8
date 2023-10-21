@@ -16,6 +16,15 @@ public class Queue<E> implements Queueable<E> {
 		// 2. If Queue is empty, assign both head and tail to this new Node
 		
 		// 3. If Queue is not empty, make the new Node the tail (don't forget to link to it first)
+		
+		String[] E;
+		int size = 0;
+		if (size == E.length) 
+			{ throw new IllegalStateException(); }
+		else {
+			size++;
+			// enqueue value
+		}
 	}
 	
 	

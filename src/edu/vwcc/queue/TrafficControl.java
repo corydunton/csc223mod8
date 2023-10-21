@@ -2,8 +2,8 @@ package edu.vwcc.queue;
 
 /*
  * Program: Air Traffic Control System
- * Your Name:
- * Your Date:
+ * Your Name: Cory Dunton
+ * Your Date: October 21, 2023
  * 
  * INSTRUCTIONS:
  * 
